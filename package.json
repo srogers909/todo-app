@@ -1,0 +1,29 @@
+{
+  "name": "todo-app",
+  "version": "0.1.0",
+  "description": "TODO App for Next.js/React Learning",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "author": "Steven Rogers <srogers909>",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "eslint-config-next": "^13.0.4",
+    "lodash": "^4.17.21",
+    "next": "^13.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "rxjs": "^7.5.7"
+  },
+  "devDependencies": {
+    "@types/react": "18.0.25",
+    "jest": "^29.3.1",
+    "jest-marbles": "^3.0.3",
+    "sass": "^1.56.1"
+  }
+}
